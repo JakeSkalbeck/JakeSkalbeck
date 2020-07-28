@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello! 👋
+Thanks for viewing my page!
 
+I enjoy cybersecurity along with coding.
 <!--
 **JakeSkalbeck/JakeSkalbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
