@@ -1,7 +1,7 @@
 ### Hello! 👋
 Thanks for viewing my page!
 
-I enjoy cybersecurity along with coding.
+I enjoy cybersecurity along with coding. Currently studying for my Security+
 <!--
 **JakeSkalbeck/JakeSkalbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
