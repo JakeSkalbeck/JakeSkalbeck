@@ -1,5 +1,5 @@
 ### Hello!<hr>
-I'm a Security Analyst who enjoys making projects with Python<img src="https://raw.githubusercontent.com/devicons/devicon/e7a43b91fd4a4f4b26fa8d1e41d910d27a17a5a9/icons/python/python-original.svg" alt="Python Icon" width=25px> 
+Security Engineer who enjoys making projects with Python<img src="https://raw.githubusercontent.com/devicons/devicon/e7a43b91fd4a4f4b26fa8d1e41d910d27a17a5a9/icons/python/python-original.svg" alt="Python Icon" width=25px> 
 <!--
 **JakeSkalbeck/JakeSkalbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
